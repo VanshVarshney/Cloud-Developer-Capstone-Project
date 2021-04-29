@@ -9,3 +9,5 @@ vscode
 
 # Webpack directories
 .webpack
+/client/package-lock.json
+/backend/package-lock.json
